@@ -113,6 +113,14 @@ Don’t really say “System Feature 1.” State the feature name in just a few 
 3.
 ## :octocat: Norbey Esteban Rojas Becerra :octocat:
 4.
+RF 04
+Nombre del requerimiento: Cancelar reservación
+Características:
+ Permitir la cancelación de una reserva, esa cancelación debe tener una fecha límite anterior a la fecha de ingreso (check in) al hotel, dicha cancelación podrá ser efectuada por el usuario y personal del hotel. Si la cancelación se produce después de la fecha límite,  se cobrará al cliente un valor por incumplimiento respecto a un porcentaje del valor total de la reserva. 
+Descripción del requerimiento:
+ El sistema debe permitir realizar la cancelación de una reserva, desde el rol del usuario y personal del hotel.
+Prioridad del requerimiento:
+ Medio.
 ## :octocat: David Leonardo Rojas León :octocat:
 5. 
 
